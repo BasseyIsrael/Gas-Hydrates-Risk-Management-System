@@ -1,4 +1,4 @@
-<img src="Banner.png" alt="Gas Hydrates" />
+<img src="banner.PNG" alt="Gas Hydrates" />
 
 <div align="center">
 
