@@ -1,4 +1,4 @@
-<img src="Stock Banner.PNG" alt="Stock Prediction Banner" />
+<img src="Assets/Banner.PNG" alt="Stock Prediction Banner" />
 
 <div align="center">
 
@@ -9,7 +9,12 @@
 
 <div align="justify">
 
- This study presents a data-driven gas hydrate diagnosis model for monitoring and risk evaluation in gas pipelines by performing, hydrate growth rate diagnosis for flow assurance in gas-dominated flow systems. Data used for learning was obtained from hydrate flow loop experiments performed under controlled gas-dominated flow conditions where thermodynamic conditions were obtained at each time step. Regression Algorithms were applied to develop a fit for a model to predict the hydrate risk level given thermodynamic conditions alongside the flowrate. The developed hydrate model was also applied to study the performance in flow operations. Use this readme file to understand the project and the results obtained. If you would like to collaborate on a data-based related project, you can contact me on israelbssy@gmail.com.
+ This study presents a data-driven gas hydrate diagnosis model for monitoring and risk evaluation in gas pipelines by performing, hydrate growth rate diagnosis for flow assurance in gas-dominated flow systems. Data used for learning was obtained from hydrate flow loop experiments performed under controlled gas-dominated flow conditions where thermodynamic conditions were obtained at each time step. Regression Algorithms were applied to develop a fit for a model to predict the hydrate risk level given thermodynamic conditions alongside the flowrate. The developed hydrate model was also applied to study the performance in flow operations. 
+ 
+ - To see a summary of this project in a presentation forat, please go [here](https://github.com/BasseyIsrael/Gas-Hydrates-Risk-Management-System/blob/main/Gas%20Hydrates%20Risk%20Management%20Presentation.pdf)
+ - You can also find a live video presentation of the project [here](https://drive.google.com/file/d/1Gl0rFusDxp3lEE67mhE1le8K0RyWp8oZ/view?usp=sharing)
+ 
+ Use this readme file to understand the project and the results obtained. If you would like to collaborate on a data-based related project, you can contact me on israelbssy@gmail.com.
  
 </div>
 
