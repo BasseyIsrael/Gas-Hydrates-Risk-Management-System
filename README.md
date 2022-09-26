@@ -17,11 +17,11 @@
 <div align="center">
 
 ![Python version](https://img.shields.io/badge/Python%20version-3.10%2B-lightgrey?style=for-the-badge)
-![GitHub last commit](https://img.shields.io/github/last-commit/BasseyIsrael/Stock-Assets-Prediction?style=for-the-badge)
-![GitHub repo file count](https://img.shields.io/github/directory-file-count/BasseyIsrael/Stock-Assets-Prediction/src?label=NOTEBOOKS&style=for-the-badge)
-![Type of ML](https://img.shields.io/badge/ML%20TYPE-TIME%20SERIES%20REGRESSION-red?style=for-the-badge)
-![GitHub repo size](https://img.shields.io/github/repo-size/BasseyIsrael/Stock-Assets-Prediction?style=for-the-badge)
-![License](https://img.shields.io/github/license/BasseyIsrael/Stock-Assets-Prediction?style=for-the-badge)
+![GitHub last commit](https://img.shields.io/github/last-commit/BasseyIsrael/Gas-Hydrates-Risk-Management-System?style=for-the-badge)
+![GitHub repo file count](https://img.shields.io/github/directory-file-count/BasseyIsrael/Gas-Hydrates-Risk-Management-System/src?label=NOTEBOOKS&style=for-the-badge)
+![Type of ML](https://img.shields.io/badge/ML%20TYPE-MULTIVARIATE%20REGRESSION-red?style=for-the-badge)
+![GitHub repo size](https://img.shields.io/github/repo-size/BasseyIsrael/Gas-Hydrates-Risk-Management-System?style=for-the-badge)
+
 
 [![Open Source Love svg1](https://badges.frapsoft.com/os/v1/open-source.svg?v=103)](https://github.com/ellerbrock/open-source-badges/)
 
@@ -39,15 +39,13 @@ For the Badges [source](https://shields.io/)
 
 ## **Table of Contents**
 
-  - [Introduction & Project Problem](#introduction--business-problem)
+  - [Introduction & Project Problem](#introduction--project-problem)
   - [Source of Data](#source-of-data)
   - [Methods Applied](#methods-applied)
   - [Quick Glance at Key Results](#quick-glance-at-key-results)
-  - [Lessons Learned and Recommendation](#lessons-learned-and-recommendation)
   - [Limitation and Improvement Opportunities](#limitations-and-improvement-opportunities)
   - [Explore Notebook](#explore-notebook)
   - [Contribution](#contribution)
-  - [License](#license  )
 
 <div align="Justify">
 
@@ -161,32 +159,6 @@ The regression algorithms are able to adopt the trend and properly make predicti
 - [Hydrate Prediction Analysis Noteboook](https://nbviewer.org/github/BasseyIsrael/Stock-Assets-Prediction/blob/main/src/A-%20Feature%20Extraction%20with%20Technical%20indicators.ipynb)
 
 
-## Contribution
+## **Contribution**
 
 Pull requests are welcome! For major changes, please open an issue first to discuss what you would like to change or contribute.
-
-# **License**
-
-MIT License
-
-Copyright (c) 2022 Israel Bassey
-
-Permission is hereby granted, free of charge, to any person obtaining a copy
-of this software and associated documentation files (the "Software"), to deal
-in the Software without restriction, including without limitation the rights
-to use, copy, modify, merge, publish, distribute, sublicense, and/or sell
-copies of the Software, and to permit persons to whom the Software is
-furnished to do so, subject to the following conditions:
-
-The above copyright notice and this permission notice shall be included in all
-copies or substantial portions of the Software.
-
-THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR
-IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY,
-FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE
-AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER
-LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
-OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
-SOFTWARE.
-
-Learn more about [MIT](https://choosealicense.com/licenses/mit/) license
