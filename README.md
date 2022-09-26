@@ -1,4 +1,4 @@
-<img src="Assets 2/Banner.PNG" alt="Gas Hydrates" />
+<img src="Banner.PNG" alt="Gas Hydrates" />
 
 <div align="center">
 
@@ -148,7 +148,7 @@ With the prepared data, performance of the models we checked with performance pl
 
 Giving more insights on the performance, a table showing the root mean squared error and coefficient of determination is also presented. 
 
-<img src="Assets 2/metrics.png" alt="Performance" />
+<img src="metrics.png" alt="Performance" />
 
 
 The regression algorithms are able to adopt the trend and properly make predictions on the hydrate associated risk level following the data pre processing methods employed with the ridge regression yeilding the lowest error and beinig able to best explain the model at 95% R-Squared value.  
